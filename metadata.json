@@ -1,0 +1,6 @@
+{
+  "name": "MorseLingo - Duolingo-Style Morse Code Academy",
+  "description": "Master Morse code with adaptive lessons, audio telegraph training, custom symbol creation, and real-time gamified learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

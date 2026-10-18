@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#050505"/>
+  <rect x="24" y="24" width="464" height="464" rx="96" fill="none" stroke="#22c55e" stroke-width="12" stroke-opacity="0.3"/>
+  <circle cx="256" cy="256" r="180" fill="#0f1911" stroke="#22c55e" stroke-width="8"/>
+  <!-- Telegraph Pulses (dots and dashes) -->
+  <g fill="#22c55e">
+    <!-- Dot 1 -->
+    <circle cx="160" cy="200" r="24" />
+    <!-- Dash 1 -->
+    <rect x="216" y="176" width="136" height="48" rx="24" />
+    <!-- Dash 2 -->
+    <rect x="160" y="264" width="100" height="48" rx="24" />
+    <!-- Dot 2 -->
+    <circle cx="296" cy="288" r="24" />
+    <!-- Dot 3 -->
+    <circle cx="360" cy="288" r="24" />
+  </g>
+  <!-- Signal Radiowaves -->
+  <path d="M120 370 C 180 340, 332 340, 392 370" fill="none" stroke="#4ade80" stroke-width="12" stroke-linecap="round" />
+  <circle cx="256" cy="380" r="14" fill="#4ade80" />
+</svg>
